@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## github及gitbook学习向导  
@@ -11,3 +12,9 @@ readme告诉别人如何使用你的软件，是项目的门面，一般包括�
 ## fork这个项目
 
 现在，把这个项目fork到你的库里，点击右上角的fork
+=======
+My Awesome Book
+=======
+
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
+>>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
