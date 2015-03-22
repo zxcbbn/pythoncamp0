@@ -128,6 +128,3 @@ git --help
 [Git与Github入门资料](http://www.yangzhiping.com/tech/git.html)
 
 
-## 适用环境
-
-OS X
