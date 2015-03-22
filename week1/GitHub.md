@@ -13,53 +13,68 @@
 那我们何不换一种思路，关注**改变**，关注我们思路发生了哪些变化，并且把为什么变化同时标记出来。也就是说把我们的**想法**以及其对应出现的**原因**都进行记录，就可以不费力的理清思路，并且也为更精准的恢复文本提供了条件。
 
 ## 本地文件夹
-###文件基本操作
- 
+###文件基本操作 
 **进入目录**
 
-<pre><code>
+```
 cd dir
-<code\><pre\>
+
+```
 
 **创建目录**
-<pre><code>
-mkdir dir
-<code\><pre\>
-**删除目录**
-<pre><code>
-rm -rf dir
-<code\><pre\>
-**创建文件**
-<pre><code>
-touch file
-<code\><pre\>
 
+```
+mkdir dir
+
+```
+**删除目录**
+
+```
+rm -rf dir
+
+```
+**创建文件**
+
+```
+touch file
+
+```
 ## 本地仓库
 
 **增加一个想法**
-<pre><code>
+
+```
 git add
-<code\><pre\>
 
+```
 **为什么要增加这个想法**
-<pre><code>
-git commit
-<code\><pre\>
 
+```
+git commit
+
+```
 **查看我是否有想法了**
-<pre><code>
+
+```
 git status
-<code\><pre\>
+
+```
 
 **查看以往的想法**
-<pre><code>
-git log
-<code\><pre\>
 
+```
+git log
+
+```
 
 ## 远程操作
-- origin/master
-- git push/pull
+
+**推送到远程**
+
+```
+git push
+```
+
 
 
 ## 参考
