@@ -7,6 +7,7 @@
    * [开光大典心得](source/part1/week1/开光大典心得.md)
    * [GitHub](source/part1/week1/GitHub.md)
    * [mailing_list](source/part1/week1/mailing_list.md)
+   * [第一周总结](source/part1/week1/summary_week1.md)
   * [week2](/source/part1/week2/introduction.md)
 	* [python笔记](source/part1/week2/python.md)
 	* [python作业](source/part1/week2/Guess_the_number.md)
