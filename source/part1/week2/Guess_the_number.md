@@ -22,8 +22,30 @@
 		- 条件与循环
 - 完成全部逻辑结构
 	- 调用simplegui完成图形界面
+		- [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
 	- 循环启动游戏
 	- 随机选择范围（2选1）
 	- 限制尝试次数
 		- 0到100，7次
 		- 0到1000，10次
+		
+##操作发现的问题
+- simplegui不太会用
+	- 尝试参考[组长的 simplegui 代码](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py)猜测调用函数方式
+	
+```
+		frame = simplegui.create_frame('Testing', 200, 200)
+		#frame.add_功能("显示名称", 函数,位置)
+		frame.add_input("Lowest number", lowest,50)
+		frame.add_input("Highest number", highest,50)
+		frame.add_button('Its Showtime!',arange,100)
+		frame.add_input("", input_guess,50)
+		
+		frame.start()
+		new_game()
+```
+	
+	
+- 在本地python运行后在codeskulptor运行，**raw_input会影响图形界面**
+	- 查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
+- 限制次数模块一开始设置有问题，对函数的互相调用理解不清晰
