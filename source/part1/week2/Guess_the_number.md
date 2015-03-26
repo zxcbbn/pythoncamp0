@@ -46,6 +46,5 @@
 ```
 	
 	
-- 在本地python运行后在codeskulptor运行，**raw_input会影响图形界面**
-	- 查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
-- 限制次数模块一开始设置有问题，对函数的互相调用理解不清晰
+- 查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
+- 限制次数一开始设置有问题，对函数的互相调用理解不清晰
