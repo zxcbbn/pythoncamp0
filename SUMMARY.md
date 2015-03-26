@@ -10,7 +10,7 @@
    * [第一周总结](source/part1/week1/summary_week1.md)
   * [week2](/source/part1/week2/introduction.md)
 	* [python笔记](source/part1/week2/python.md)
-	  [python作业](source/part1/week2/Guess_the_number.md)
+	* [python作业](source/part1/week2/Guess_the_number.md)
      [python作业代码](source/src/iippy-1/guess_the_number.py)
 * [part2](./source/part2/introduction)
   * [part2.2](./source/part2/1.md)

@@ -33,8 +33,9 @@
 
 		
 ##操作发现的问题
-- simplegui不太会用
-	- 尝试参考[组长的 simplegui 代码](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py)猜测调用函数方式
+###simplegui不太会用
+	
+尝试参考[组长的 simplegui 代码](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py)猜测调用函数方式
 	
 ```
 		frame = simplegui.create_frame('Testing', 200, 200)
@@ -49,7 +50,14 @@
 ```
 	
 	
-- 查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
-- 限制次数一开始设置有问题，对函数的互相调用理解不清晰
+查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
+
+###限制次数一开始设置有问题，对函数的互相调用理解不清晰
+###simplegui在safari中显示有问题，使用chrome
+###需要解决的问题
+	
+- [x]输入非range内的数提示
+- [ ]输入字符不能转换成int的错误预防
+- [ ]一次游戏结束自动在该范围进行下一次，引入延时函数
 
 
