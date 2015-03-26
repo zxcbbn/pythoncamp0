@@ -29,7 +29,7 @@
 		- 0到100，7次
 		- 0到1000，10次
 - 实现逻辑功能[代码](http://www.codeskulptor.org/#user39_MmdkKzh00ddELfY.py)
-- 实现图形界面需要相对独立的调用[代码](http://www.codeskulptor.org/#user39_9OK4KOXIWwnvY9K.py)
+- 实现图形界面需要相对独立的调用[代码](http://www.codeskulptor.org/#user39_SBTf7H19p1_0.py)
 
 		
 ##操作发现的问题
