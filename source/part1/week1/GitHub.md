@@ -78,6 +78,13 @@ git log
 
 ```
 
+**回到以往的想法**
+
+
+```
+git reset --hard HEAD^
+```
+
 ## 远程操作管理
 
 **添加 SSH Key并在 GitHub 中添加**

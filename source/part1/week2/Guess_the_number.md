@@ -20,7 +20,7 @@
 		- input_raw:玩家到计算机
 		- 强制类型转换
 		- 条件与循环
-- 完成全部逻辑结构
+- 完成逻辑结构
 	- 调用simplegui完成图形界面
 		- [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
 	- 循环启动游戏
@@ -28,6 +28,9 @@
 	- 限制尝试次数
 		- 0到100，7次
 		- 0到1000，10次
+- 实现逻辑功能[代码](http://www.codeskulptor.org/#user39_MmdkKzh00ddELfY.py)
+- 实现图形界面需要相对独立的调用[代码](http://www.codeskulptor.org/#user39_9OK4KOXIWwnvY9K.py)
+
 		
 ##操作发现的问题
 - simplegui不太会用
@@ -48,3 +51,5 @@
 	
 - 查看 codeskulptor 中的 docs [simplegui](http://www.codeskulptor.org/docs.html#tabs-Python)
 - 限制次数一开始设置有问题，对函数的互相调用理解不清晰
+
+
