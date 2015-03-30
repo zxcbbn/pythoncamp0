@@ -64,6 +64,12 @@
 	'<invalid type>' object has no attribute 'sleep'
 ```
 
+####延时操作，codeskulptor不支持time模块里的
+
+```
+time.accept2dyear time.altzone time.asctime() time.clock() time.ctime() time.daylight time.gmtime() time.localtime() time.mktime() time.sleep() time.strftime() time.strptime() time.struct_time time.timezone time.tzname time.tzset()
+```
+
 
 
 

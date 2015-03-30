@@ -14,3 +14,7 @@
 - 可读性的好看非常重要：确保几个月后自己能看懂
 	- [Python代码编写格式规范](https://github.com/OpenMindClub/OMOOC.py/wiki/Python_Style_Guide)
 	- **善用注释**是非常好的习惯
+	
+##环境配置问题
+
+###[多python版本共存问题](http://tbb.co/managing-python-on-os-x-with-pyenv/)
