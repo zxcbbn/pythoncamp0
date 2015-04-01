@@ -59,10 +59,10 @@ start - Interactive - wait(event):"quit" END
 		  \/   .
 		 ...wait<............... 
 		 .  /\ ....            . 
-		 .  ..    .            .
-		 .  ....  .......> Handler2
+		 .  ..    |            .
+		 .  ....  ------> Handler2
 		 .     .
-		 .....> Handler1
+		 ----> Handler1
  
 ```
 
@@ -98,6 +98,13 @@ program structure
 
 ### Mouse input
  frame.set_mouseclick_handler(position) 注意一个两个实数的**元组**
+ 
+ 讲解实例：如何点绘图形，改变颜色
+ 
+ - 位置获取
+ - 鼠标使用
+ - 图形绘制
+
 ### List methods
 
 ####创建列表
@@ -112,13 +119,13 @@ in:判断某元素是否在列表里
 
 
 ```
-232 in lst ....>  T/F
+232 in lst ------->  T/F
  元素
 ```
 index:说明元素在列表中的位置
 
 ```
-lst.index(232) .....>   3
+lst.index(232) ------>   3
           元素         位置
 ```
 ####修改列表
@@ -147,7 +154,32 @@ remove:删除名称在列表中的元素
 ```
 lst.remove(232)
 ```
+### List example
+通过列表增加删除元素控制绘制
 
+### Iteration
+不能对迭代的列表进行完全的操作么，可以建立新列表
+
+### Dictionary
+
+本质是一个映射，列表的映射只针对数字
+
+key -> value
+
+
+####创建字典
+
+```
+d = {1:   2,        3:4}
+    key values
+```
+
+### items:直接取values
+
+
+```
+d.items()
+```
 ##知识清单
 
 - 地板除 // 舍弃小数部分 & 常规除
