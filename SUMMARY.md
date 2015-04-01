@@ -9,7 +9,7 @@
    * [mailing_list](source/part1/week1/mailing_list.md)
    * [第一周总结](source/part1/week1/summary_week1.md)
   * [week2](/source/part1/week2/introduction.md)
-	* [python笔记](source/part1/week2/python.md)
+	* [python笔记](source/python.md)
 	* [python作业](source/part1/week2/Guess_the_number.md)
   * [week3](source/part1/week3/introduction.md)
    * [python作业](source/part1/week3/Guess_the_number.md)

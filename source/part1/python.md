@@ -1,7 +1,7 @@
 #python 教程
 
 
-##MOOC笔记
+##MOOC笔记part1
 ### Programming Tips
 - 注意使用 module 要 import
 - 善用 codeskulptor 的 DOC。可以使用搜索功能
@@ -81,9 +81,72 @@ program structure
 - start frame & timers
 
 ### Input field
+使用 simplegui 创建 input
+### Visualizing events
+使用 tutorial 模式更深入理解
+###Programming Tips 2
+- 使用 global variables 需要声明
+- x = function() x为函数的返回值
+- 每一个操作输出操作的内容，使每一次操作都得到反馈
+- 逻辑关系能简化就化到最简
+
+### Guess the number
+解释mini project
 
 
+##MOOC笔记part2
 
+### Mouse input
+ frame.set_mouseclick_handler(position) 注意一个两个实数的**元组**
+### List methods
+
+####创建列表
+列表:注意元素的序列是从0开始计数
+
+
+```
+lst = [1,232,43434,3534,a,b,c]
+```
+####对当前列表操作 
+in:判断某元素是否在列表里
+
+
+```
+232 in lst ....>  T/F
+ 元素
+```
+index:说明元素在列表中的位置
+
+```
+lst.index(232) .....>   3
+          元素         位置
+```
+####修改列表
+修改单一元素
+
+```
+lst[2] = 444
+   位置    修改值 
+```
+append:增加元素到列表的最末位
+
+
+```
+lst.append(777) ....> lst = [1,232,43434,3534,a,b,c,777]
+```
+pop:删除append的元素
+
+
+```
+lst.pop(7)     .....>          777
+     移除第几个元素          移除的元素是什么
+```
+
+remove:删除名称在列表中的元素
+
+```
+lst.remove(232)
+```
 
 ##知识清单
 
