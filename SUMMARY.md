@@ -12,7 +12,7 @@
 	* [python笔记](source/python.md)
 	* [python作业](source/part1/week2/Guess_the_number.md)
   * [week3](source/part1/week3/introduction.md)
-   * [可回放的点彩画板折腾过程](source/part1/week3/可回放的点彩画板.md)
+   * [palette折腾过程](source/part1/week3/palette.md)
    * [iTerm2](source/part1/iterm.md)
     * [part2](./source/part2/introduction)
   * [part2.2](./source/part2/1.md)
