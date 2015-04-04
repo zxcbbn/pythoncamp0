@@ -174,12 +174,39 @@ d = {1:   2,        3:4}
     key values
 ```
 
-### items:直接取values
+#### items:直接取values
 
 
 ```
 d.items()
 ```
+### Image
+
+Load images:具体内容看 simplegui 的 doc
+
+```
+load_image(URL)
+```
+draw image
+
+
+```
+canvas.draw_image(im,src_center,src_size,dst_center,dst_size)
+
+```
+### Visualizing iteration
+
+
+### Programming tips
+
+####列表易出现的问题
+注意范围从0开始
+####列表和字典
+字典是没有顺序的，字典可以直接添加（没有范围可言），字典的key应该是不可变元素
+
+### Memory
+
+
 ##知识清单
 
 - 地板除 // 舍弃小数部分 & 常规除
