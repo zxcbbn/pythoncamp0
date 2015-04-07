@@ -204,7 +204,17 @@ canvas.draw_image(im,src_center,src_size,dst_center,dst_size)
 ####列表和字典
 字典是没有顺序的，字典可以直接添加（没有范围可言），字典的key应该是不可变元素
 
-### Memory
+### Object-oriented programming1
+介绍**类**的概念
+### Object-oriented programming2
+####bounce_ball_example
+
+- define a ball domain
+- define another domain to hold the ball
+
+####advantages of object_oriented_programming
+
+- To implement your code to performs new functions easily
 
 
 ##知识清单
