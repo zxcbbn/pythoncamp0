@@ -214,9 +214,13 @@ canvas.draw_image(im,src_center,src_size,dst_center,dst_size)
 
 ####advantages of object_oriented_programming
 
+- To separate things into class
+	- In our example is to separate the behaivour of the ball and the domain（概念清楚的重要性：李笑来）简而言之是抽象化一个object的行为
 - To implement your code to performs new functions easily
 
+###Working with objects
 
+tuple需要了解一下元组的概念
 ##知识清单
 
 - 地板除 // 舍弃小数部分 & 常规除
