@@ -47,14 +47,14 @@
 
 #### 所用参考资料
 
-《深入浅出数据分析》
-《统计学的世界》
-《利用Python进行数据分析》
-《数据科学实战》
-Numerical Python 
-Think Stats
-Python for science
-http://www.scipy-lectures.org/
+- 《深入浅出数据分析》
+- 《统计学的世界》
+- 《利用Python进行数据分析》
+- 《数据科学实战》
+- Numerical Python 
+- Think Stats
+- Python for science
+- http://www.scipy-lectures.org/
 
 ### 学员要求
 
@@ -69,10 +69,12 @@ http://www.scipy-lectures.org/
 
 - 课程导师：肖凯 @xccds 
 - 课程助教：赖伟鹏 @wp-lai 
-	若有课程/技术疑问，欢迎联系课程导师和课程助教。
+
+若有课程/技术疑问，欢迎联系课程导师和课程助教。
 	
 - 课程助理：章靛 @zhangdian0801 
-	若有其它疑问/需求，欢迎联系课程助理。
+
+若有其它疑问/需求，欢迎联系课程助理。
 
 ### 附：缩写规约
 
