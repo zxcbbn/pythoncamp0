@@ -39,7 +39,7 @@
 	- 当周课程视频/幻灯 ~ [开智学堂](http://www.iomooc.com/pages/login.html)>数据科学入门班>系统卡包
 	- 当周作业 ~ [开智学堂](http://www.iomooc.com/pages/login.html)>数据科学入门班>系统卡包
 - 学员自己安排时间学习、完成作业
-	- 疑问发布到 Issue 中
+	- 疑问发布到 Issue 中，发布方式参考 [Issue 提问模板](https://github.com/OpenMindClub/OMOOCData/issues/2)
 	- 导师/助教 异步答疑指点
 	- 尽量不在微信群中讨论技术问题
 - *wd4 20:42~21:42 学员微信群集中答疑
