@@ -176,3 +176,9 @@ R和python都有做网络分析的库
 
 #### A
 频率派可以认为是贝叶斯派的特例，贝叶斯认为参数也是变化的，但频率认为是固定的
+
+其他
+  
+**裘德**
+
+如果有同学 会用vagrant ， 推荐一个 [data science tool box](http://datasciencetoolbox.org/)
